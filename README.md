@@ -91,6 +91,6 @@ Content-Type: application/json
 
 ## Valores aceitos
 
-**prioridade:** `Baixa` `Media` `Alta`
+**prioridade:** "`Baixa`" "`Media`" "`Alta`"
 
-**status:** `Aberto` `Em andamento` `Resolvido` `Fechado`
+**status:** "`Aberto`" "`Em andamento`"  "`Resolvido`" "`Fechado`"
