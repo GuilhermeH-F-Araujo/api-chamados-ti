@@ -18,7 +18,7 @@ npm install
 
 **2. Criar o arquivo `.env` na raiz do projeto**
 ```
-PORT=3000
+PORT=80
 MONGO_URI=sua_uri_do_mongodb_aqui
 ```
 
