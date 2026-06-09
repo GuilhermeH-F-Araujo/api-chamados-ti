@@ -1,0 +1,2 @@
+PORT=80
+MONGO_URI=mongodb+srv://guigonewtablet_db_user:TbsDcAv76TE7doYy@cluster0.gwdznig.mongodb.net/bd-chamados-api?appName=Cluster0
